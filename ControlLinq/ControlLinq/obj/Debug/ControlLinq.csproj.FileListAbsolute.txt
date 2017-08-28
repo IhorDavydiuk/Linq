@@ -1,0 +1,6 @@
+C:\Users\Student\Source\Repos\LessonGit\ControlLinq\ControlLinq\bin\Debug\ControlLinq.exe.config
+C:\Users\Student\Source\Repos\LessonGit\ControlLinq\ControlLinq\bin\Debug\ControlLinq.exe
+C:\Users\Student\Source\Repos\LessonGit\ControlLinq\ControlLinq\bin\Debug\ControlLinq.pdb
+C:\Users\Student\Source\Repos\LessonGit\ControlLinq\ControlLinq\obj\Debug\ControlLinq.csprojResolveAssemblyReference.cache
+C:\Users\Student\Source\Repos\LessonGit\ControlLinq\ControlLinq\obj\Debug\ControlLinq.exe
+C:\Users\Student\Source\Repos\LessonGit\ControlLinq\ControlLinq\obj\Debug\ControlLinq.pdb
